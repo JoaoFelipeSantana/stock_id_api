@@ -1,0 +1,16 @@
+{
+    "name": "aula12/mvc",
+    "description": "Primeira API desenvolvida em PHP",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Felipe"
+        }
+    ],
+    "require": {   
+    }
+}
